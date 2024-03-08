@@ -1,3 +1,8 @@
+# Program Name: Numbering Systems Converter
+# Program Description: A numbering system converter that converts from the 4 basic systems: Binary, Decimal, Octal, Hexadecimal and to them depending on the user's preference.
+# Last Modification Date: 3/8/2024
+# Author: Adham Ghallab
+# Credit: Another individual from my college helped in the making of some functions
 
 # If conditions to return the base of the inputted value
 def base_num(letter):
