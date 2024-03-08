@@ -1,6 +1,3 @@
-# Adham Mahmoud Mohamed Ghallab ID: 20230045
-# Safia Mohamed Saeed AbdElmohsen ID: 20231088
-# Nada Amin Fawzy Mohamed ID: 20230440
 
 # If conditions to return the base of the inputted value
 def base_num(letter):
